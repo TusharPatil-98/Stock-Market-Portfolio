@@ -3,4 +3,4 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest --nbval Stock-Market_DataAnalysis.ipynb
+	python -m pytest --nbval Stock-Market-DataAnalysis.ipynb
